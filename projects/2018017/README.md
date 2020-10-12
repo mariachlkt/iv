@@ -32,3 +32,9 @@ In that regard and as far as the course is concerned, a few personal pursuits ar
 * To identify significant characteristics and patterns of a given data set
 * To examine visual representation techniques that may have left a negative impact in the past
 * To understand which visualization tools are most appropriate for a given {procedure, data set}
+#### Expectations
+Information Visualization is a demanding field that emerges and evolves everyday. The higher one sets the bar, the bigger the challenges she/he may face.<br>
+It is important to realize that each visualization has it's context. One may simply be intended to inform, without a specific call to action, whereas another may be intended to to engage recipients in wider conversations or to deepen a relationship. Sometimes, a visualization might have long-term intentions rather than to support an immediate decision.<br>
+That being said, *I think*, that two of the prominent expectations to have are:
+* Enhance human decision-making through Information Visualization
+* Provide goal awareness through conceptualizing ideas and understanding market needs
